@@ -1,8 +1,21 @@
 *{
 padding:0;
 margin:0;
-vertical-align:baseline;
-list-style:none;
 border:0;
+color:aqua;
 
+}
+.eixo{
+    margin: 0 auto;
+    width: 100%;
+    color: aquamarine;
+  }
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
 }
